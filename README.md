@@ -1,4 +1,4 @@
-# Google Cloud CLI ile Entegre Python Projesi
+# GSC Ambulans Google Cloud Repo
 
 Bu proje, Google Cloud Platform'un (GCP) çeşitli hizmetlerini yönetmek ve etkileşimde bulunmak için Google Cloud CLI araçlarını kullanır. Python dili ile geliştirilmiştir ve GCP üzerinde otomasyon görevleri, kaynak yönetimi ve veri işleme gibi işlemleri kolaylaştırır.
 
