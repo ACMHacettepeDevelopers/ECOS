@@ -14,7 +14,7 @@ subscription_path = subscriber.subscription_path("gscambulans", "sub01")
 
 
 def callback(message: pubsub_v1.subscriber.message.Message) -> None:
-    print(f"Received {message}.")
+    print(f"Received {message.data.decode('utf-8')}")
     message.ack()
 
 
